@@ -1,0 +1,7 @@
+name: orange
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - orange3
+prefix: /home/sieun/miniconda3/envs/orange
