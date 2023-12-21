@@ -1,0 +1,37 @@
+# Development of instructal plans regarding <quadrangles> chapter using AI classification models: Focusing on improvement of conceptual image
+
+
+### Proceeding Full Text
+_**(Please read this article considering that it was machine translated from Korean to English.)**_
+
+The rapid development of artificial intelligence technology is also opening up new horizons in the education world. In the 2022 revised curriculum general presented by the Ministry of Education, digital basic literacy, along with language and mathematics basic literacy, was designated as the basic literacy that all students should have, and the emphasis was placed on designing classes to cultivate such basic literacy (Ministry of Education, 2022). In line with this, there is a need to develop content standards to cultivate balanced digital basic literacy in subjects other than information subjects where digital literacy education was previously conducted. 
+
+This background includes concrete conceptual classification of AI use to actively utilize AI in education (Baker & Smith, 2019), or research that systematically classifies studies that have already been conducted and illuminates future development potential (Dongjo Shin, 2020; Noh Ji-hwa et al., 2023). In addition, research is being conducted in various school-level and subject education fields to present new educational forms and learning forms for organic connection between achievement standards and content elements of subjects and AI. For example, Choi In-seon (2022) developed a specific scenario using AI in the middle school statistics unit.
+
+Lim Woong and Park Mi-mi (2021) described 'content, structure, and activity supporting mathematics teaching and learning through the use of artificial intelligence technology' as the definition of 'AI-based mathematics education' and analyzed the current status of AI-based mathematics education research abroad to suggest the direction of future AI-based mathematics education. However, Choi In-seon (2022) pointed out that research on AI utilization in modern mathematics education focuses on educational technology, and argued that this approach does not provide a clear direction for how to use AI in mathematics education from a long-term perspective. This suggests that concrete and continuous research and discussion on how to introduce AI into the educational field are needed while at the same time conveying mathematical concepts and contents meaningfully from the perspective of mathematics education.
+
+This study aimed to design a new form of instruction that organically connects the content elements and achievement standards of mathematics subjects with AI's unique characteristics. And I would like to introduce a class plan that applies this to the context of a unit and share the implications obtained in the analysis stage after the class demonstration.
+Shin Dong-jo (2020) revealed through a literature survey that teachers often assist in learning using AI in elementary and secondary education using AI, or that the role is often not specified, and argued that it is necessary to discuss the role of teachers in classes using AI. In this study, students were given the role of mentors, AI was given the role of mentees, and teachers were given the role of supervisors to clearly distinguish the roles of teachers and AI, and the form of classes was designed so that AI functions as an independent subject that promotes students' learning. 
+
+In this study, the target unit for the class is the 'various squares' unit of mathematics in the second year of middle school, and the specific learning goal is 'understanding the definition and properties of rectangles, rhombuses, and squares'. When learning the corresponding unit, students observe the square images presented in the textbook and form conceptual images for each concept (rectangles, rhombuses, squares, etc.). Conceptual images are defined as the entire cognitive structure consisting of all attributes and processes and images related to the concept (Tall & Vinner, 1981). Students must form appropriate conceptual images through assimilation and control, but several factors can act as factors of cognitive impairment, and inappropriate conceptual images can be potential conflict factors for future teaching and learning (Tall & Vinner, 1981).
+
+Regarding the learning of the square unit, Jang Hyun-seok et al. (2022) mentioned the effect of the concept image formed by the student on the later conceptual definition learning when the definition instruction of the square was not properly performed, and emphasized the need to find various strategies for the definition instruction of the square. In other words, the need to guide students to form an appropriate concept image during the learning of the unit is emphasized.
+Therefore, in this study, "Do the activities presented in the class help students change their conceptual image of squares and induce significant changes in the phenomenon that conceptual definition relies on conceptual images?" was set as a research question and a specific class plan for the "various squares" unit was developed.
+
+The class plan is largely composed of three steps as shown in the picture below. 
+
+<img width="504" alt="image" src="https://github.com/cherry-0/Streamlit-Orange-demo/assets/80082633/4f3491df-f7ff-439a-8b4b-2f3c51e10983">
+
+Activity 1 is an activity in which students directly produce various types of rectangular images. 
+
+Based on this, in Activity 2, the classification accuracy of the artificial intelligence classification model for the rectangular image produced to students is observed, and in order to improve the classification accuracy, they are asked to consider the composition change of the dataset and the direction of improvement. 
+
+![image](https://github.com/cherry-0/Streamlit-Orange-demo/assets/80082633/ce729c5c-69f7-4d16-b891-d5fc6f0ac633)
+
+<img width="490" alt="image" src="https://github.com/cherry-0/Streamlit-Orange-demo/assets/80082633/1b41146c-6ccb-4342-9e21-9dc7fe28d693">
+
+Activity 3 is an activity to share the revision strategies and what they have learned through the previous activities 1 and 2 with other students. For the composition of each activity, a strategy to construct an extreme example among the strategies proposed by Watson & Mason (2015) and a strategy to find an example that satisfies the conditions were used. We tried to effectively expand the example space that students have for various squares and their hierarchical structures.
+
+In this class, the block coding function built into the Algeomath software allowed students to manipulate variables on their own and draw various types of squares. In the case of the artificial intelligence classification model, Orange3 software was used to support related functions and effective visualization tools so that the flow of the process of recognizing images and deriving classification results can be easily observed.
+Before and after the class demonstration, students respond to questions from pre and post questionnaires and activity sheets, and produce several image files reflecting their example spaces during class. In this study, we tried to answer research questions by analyzing the process of conceptual image change based on the answers of students collected and the image files produced by students during their activities. Furthermore, we tried to derive implications based on what preliminary preparations are necessary to realize the class plan in the school field.
+
