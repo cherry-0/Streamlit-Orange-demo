@@ -5,6 +5,9 @@ import os
 st.write("testing Orange")
 
 with st.spinner():
-    os.system("./test.sh")
+    try:
+        os.system("./test.sh")
+        st.write("done")
 
-st.write("done")
+    except:
+        st.write("error")
