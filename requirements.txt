@@ -1,2 +1,2 @@
-PyQt6 
-PyQt6-WebEngine
+PyQt5>=5.12,!=5.15.1  # 5.15.1 skipped because of QTBUG-87057 - affects select columns
+PyQtWebEngine>=5.12
