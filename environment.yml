@@ -1,7 +1,0 @@
-name: orange
-channels:
-  - defaults
-  - conda-forge
-dependencies:
--   streamlit
-  - orange3
